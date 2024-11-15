@@ -42,7 +42,7 @@ logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %
 load_dotenv()
 
 TOKEN = os.getenv('DISCORD_TOKEN')
-bot_owner_id = 557917550923612170
+bot_owner_id = 557917550923612170 # This is MY userid, make sure you replace it with your own!
 
 # Load linters from linters.json
 logging.info("Loading linters configuration from linters.json")
