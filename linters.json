@@ -1,0 +1,26 @@
+{
+    "php": {
+        "linter": "linters/phpcs.phar",
+        "formatter": "linters/phpcbf.phar"
+    },
+    "js": {
+        "linter": "",
+        "formatter": ""
+    },
+    "py": {
+        "linter": "",
+        "formatter": ""
+    },
+    "c": {
+        "linter": "",
+        "formatter": ""
+    },
+    "c#": {
+        "linter": "",
+        "formatter": ""
+    },
+    "c++": {
+        "linter": "",
+        "formatter": ""
+    }
+}
